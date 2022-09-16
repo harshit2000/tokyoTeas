@@ -7,7 +7,7 @@
             <input type="hidden" name="type" value="article,product" />
             <input type="text" name="q" class="search_box" placeholder="Search..." value="" />
           </form>
-        </li>
+        
         
           
             <li ><a href="../index.php" title="Home">Home</a></li>
